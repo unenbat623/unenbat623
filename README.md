@@ -40,7 +40,7 @@
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<div align="center"><a> <img height="480em" width="980em" src="https://images.wallpapersden.com/image/wxl-sung-jin-woo-digital-solo-leveling_92259.jpg" /></a></div>
+<div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
 <p align="center">
 <a href="https://github.com/unenbat623">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unenbat623&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
