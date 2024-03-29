@@ -1,21 +1,12 @@
-- 👋 Hi, I’m @unenbat623
-- 👀 I’m interested in FullStack Developer
-- 🌱 I’m currently learning typescript, javascript
-- 💞️ I’m looking to collaborate on any
-- 📫 How to reach me ig: anuka.o
+- ✌️ Hi, I’m @unenbat623
+- ✨ I’m interested in FullStack Developer
+- 🏁 I’m currently learning typescript, javascript, html, css
+- 🤫 How to reach me ig: unenbat_619
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, My name is Unenbat <3</h1> 
 <h4 align="center">Develop Software Solutions</h4>
 </div>
-
-<div align="center">
-  <a href="https://github.com/alianu23">
-  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -34,6 +25,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)&nbsp;
 ![Daisy-ui](https://img.shields.io/badge/Daisy--UI-8A2BE2?style=flat&logo=daisy-ui&logoColor=white)&nbsp;
+
+<div align="center">
+  <a href="https://github.com/alianu23">
+  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
