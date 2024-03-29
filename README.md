@@ -1,14 +1,19 @@
-- ✌️ Hi, I’m @unenbat623
-- ✨ I’m interested in FullStack Developer
-- 🏁 I’m currently learning typescript, javascript, html, css
-- 🤫 How to reach me ig: unenbat_619
+
 
 <div align="center">
 <h1 align="center"><img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">Hi , My name is Unenbat <3</h1> 
 <h4 align="center">Develop Software Solutions</h4>
 </div>
 
-### 🛠 &nbsp;Tech Stack
+
+<div>
+ <div>- ✌️ Hi, I’m @unenbat623</div> 
+ <div> - ✨ I’m interested in FullStack Developer</div> 
+ <div> - 🏁 I’m currently learning typescript, javascript, html, css</div> 
+ <div> - 🤫 How to reach me ig: unenbat_619</div> 
+</div>
+
+### ⚙️ &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)&nbsp;
@@ -34,7 +39,7 @@
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<a> <img height="360em" src="https://images6.alphacoders.com/106/thumb-1920-1065654.png" /></a>
+<div align="center"><a> <img height="auto" width="auto" src="https://images6.alphacoders.com/106/thumb-1920-1065654.png" /></a></div>
 <p align="center">
 <a href="https://github.com/unenbat623">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unenbat623&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
