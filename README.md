@@ -15,6 +15,7 @@
 
 ### ⚙️ &nbsp;Tech Stack
 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Material-ui](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)&nbsp;
@@ -46,7 +47,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unenbat623&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<h3 align="left">🔥   My Stats <3</h3>
+<h3 align="left">🔥 My Stats <3</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=unenbat623&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
