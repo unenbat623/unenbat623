@@ -4,7 +4,7 @@
 - 🤫 How to reach me ig: unenbat_619
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, My name is Unenbat <3</h1> 
+<h1 align="center"><img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">Hi , My name is Unenbat <3</h1> 
 <h4 align="center">Develop Software Solutions</h4>
 </div>
 
@@ -27,7 +27,7 @@
 ![Daisy-ui](https://img.shields.io/badge/Daisy--UI-8A2BE2?style=flat&logo=daisy-ui&logoColor=white)&nbsp;
 
 <div align="center">
-  <a href="https://github.com/alianu23">
+  <a href="https://github.com/unenbat623">
   <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -35,7 +35,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/alianu23">
+<a href="https://github.com/unenbat623">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unenbat623&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unenbat623&layout=compact&langs_count=8&theme=algolia"/>
 </a>
