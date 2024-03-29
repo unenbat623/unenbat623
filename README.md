@@ -39,10 +39,14 @@
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
-<div align="center"><a> <img height="auto" width="auto" src="https://images6.alphacoders.com/106/thumb-1920-1065654.png" /></a></div>
+<div align="center"><a> <img height="auto" width="auto" src="https://images.wallpapersden.com/image/wxl-sung-jin-woo-digital-solo-leveling_92259.jpg" /></a></div>
 <p align="center">
 <a href="https://github.com/unenbat623">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unenbat623&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unenbat623&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<h3 align="left">🔥   My Stats <3</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=unenbat623&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
