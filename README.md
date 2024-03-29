@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1 align="center"><img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">Hi , My name is Unenbat <3</h1> 
-<h4 align="center">Develop Software Solutions</h4>
+<h4 align="center">Full Stack Developer</h4>
 </div>
 
 
