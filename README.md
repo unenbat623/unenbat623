@@ -39,6 +39,13 @@
        alt="snake" /></a>
 </div>
 
+<div align="center">
+  <a href="https://open.spotify.com/user/https://open.spotify.com/?flow_ctx=f317ab85-66cc-49f6-8ac2-d96bb016fa5a%3A1711991178">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/?flow_ctx=f317ab85-66cc-49f6-8ac2-d96bb016fa5a%253A1711991178&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
 <p align="center">
