@@ -13,7 +13,7 @@
  <div> - 🤫 How to reach me ig: unenbat_619</div> 
 </div>
 
-### ⚙️ &nbsp;Tech Stack
+### ⚙️ &nbsp;Tech Stack ⚙️
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -46,7 +46,7 @@
 </div>
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics ⚙️
 <div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
 <p align="center">
 <a href="https://github.com/unenbat623">
@@ -54,7 +54,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unenbat623&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<h3 align="left">🔥 My Stats <3</h3>
+<h3 align="left">🔥 My Stats 🔥 <3</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=unenbat623&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
