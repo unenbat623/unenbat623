@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unenbat623&label=Profile%20views&color=0e75b6&style=flat" alt="unenbat623" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unenbat623" alt="amarbold22" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unenbat623" alt="unenbat623" /></a> </p>
 
 
 ### ⚙️ &nbsp;Tech Stack ⚙️
