@@ -16,8 +16,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unenbat623&label=Profile%20views&color=0e75b6&style=flat" alt="unenbat623" /> </p>
 
 
-
-
 ### ⚙️ &nbsp;Tech Stack ⚙️
 
 
@@ -53,8 +51,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics ⚙️
 <div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unenbat623" alt="unenbat623" /></a> </p>
+
 <p align="center">
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unenbat623" alt="unenbat623" /></a> </p>
 <a href="https://github.com/unenbat623">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=unenbat623&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=unenbat623&layout=compact&langs_count=8&theme=algolia"/>
