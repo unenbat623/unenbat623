@@ -42,13 +42,6 @@
        alt="snake" /></a>
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Unnbt_623">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Unnbt_623&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-
 ### ⚙️ &nbsp;GitHub Analytics ⚙️
 <div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
 
