@@ -2,19 +2,20 @@
 
 <div align="center">
 <h1 align="center"><img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">Hi , My name is Unenbat <3</h1> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unenbat623&label=Profile%20views&color=0e75b6&style=flat" alt="unenbat623" /> </p>
+<div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
+
 <h4 align="center">Full Stack Developer</h4>
 </div>
 
 
-<div>
+<div align="center">
  <div>- ✌️ Hi, I’m @unenbat623</div> 
  <div> - ✨ I’m interested in FullStack Developer</div> 
  <div> - 🏁 I’m currently learning typescript, javascript, html, css</div> 
  <div> - 🤫 How to reach me ig: unenbat_619</div> 
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unenbat623&label=Profile%20views&color=0e75b6&style=flat" alt="unenbat623" /> </p>
-<div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
 
 
 ### ⚙️ &nbsp;Tech Stack ⚙️
