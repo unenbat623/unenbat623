@@ -4,7 +4,7 @@
 <h1 align="center"><img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">Hi , My name is Unenbat <3</h1> 
 <h4 align="center">Full Stack Developer</h4>
 </div>
-
+<div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
 
 <div>
  <div>- ✌️ Hi, I’m @unenbat623</div> 
@@ -43,7 +43,7 @@
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics ⚙️
-<div align="center"><a> <img height="auto" width="auto" src="https://wallpapercave.com/wp/wp8170492.png" /></a></div>
+
 
 <p align="center">
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unenbat623" alt="unenbat623" /></a> </p>
