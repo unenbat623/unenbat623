@@ -11,6 +11,7 @@
 
 
 <div align="center">
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
  <div>- ✌️ Hi, I’m @unenbat623</div> 
  <div> - ✨ I’m interested in FullStack Developer</div> 
  <div> - 🏁 I’m currently learning typescript, javascript, html, css</div> 
